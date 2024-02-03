@@ -8,6 +8,7 @@
 
 ## Web
 * Web Tracking：https://ithelp.ithome.com.tw/users/20152544/ironman/57
+* Vue3.0：https://book.vue.tw/CH1/1-1-introduction.html
 
 
 ## BE
