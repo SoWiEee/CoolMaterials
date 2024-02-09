@@ -9,6 +9,7 @@
 * Usage：https://ithelp.ithome.com.tw/articles/10213928
 * Newbie：http://tinyurl.com/y2mfy8uu [medium]
 * Official Tutorial：https://leetcode.com/explore/learn/
+* Grind 75 (169 practices)：https://www.techinterviewhandbook.org/grind75?hours=10&weeks=15
 
 
 ## Programming
