@@ -4,9 +4,15 @@
 * Basic Concpets & Practices：https://ithelp.ithome.com.tw/users/20141088/ironman/5548
 * Artificial Intelligent：https://ithelp.ithome.com.tw/users/20152236/ironman/560
 
+## LeetCode
+* Website：https://leetcode.com/
+* Usage：https://ithelp.ithome.com.tw/articles/10213928
+* Newbie：http://tinyurl.com/y2mfy8uu
+
+
 ## Programming
 * Data Structure in C：https://github.com/ksw2000/Data-Structure-in-C
-* Software Engineer：https://ithelp.ithome.com.tw/users/20152262/ironman/56
+* Interview of Software Engineer：https://ithelp.ithome.com.tw/users/20152262/ironman/56
 * Fuzzing Test：https://ithelp.ithome.com.tw/articles/10287619
 
 ## Internet
