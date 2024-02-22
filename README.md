@@ -17,6 +17,7 @@
 * Data Structure in C：https://github.com/ksw2000/Data-Structure-in-C
 * Interview of Software Engineer：https://ithelp.ithome.com.tw/users/20152262/ironman/56
 * Fuzzing Test：https://ithelp.ithome.com.tw/articles/10287619
+* Dynamic Programming：https://ithelp.ithome.com.tw/users/20112376/ironman/2672
 
 ## Internet
 * Packet Analyze with Python：https://ithelp.ithome.com.tw/users/20130271/ironman/3662
