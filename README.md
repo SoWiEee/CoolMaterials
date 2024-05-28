@@ -24,9 +24,24 @@
 
 ## Web
 * Web Tracking：https://ithelp.ithome.com.tw/users/20152544/ironman/57
-* Vue3.0：https://book.vue.tw/CH1/1-1-introduction.html
-
+* NTU Computer Security Camp：
 
 ## BE
+* NTU Computer Security Camp：
 * Binary Exploitation Notes (Gitbook)：https://ir0nstone.gitbook.io/notes/types/stack/introduction
+
+
+# CTF Tool List
+* kali Linux
+* sqlmap
+* Wireshark
+* gdb：(gef)、(pwndbg)
+* IDA：
+* Ghidra：
+* pwntools：
+* dirsearch：https://github.com/maurosoria/dirsearch
+* angr：
+* z3：
+* Metasploit：
+
 
