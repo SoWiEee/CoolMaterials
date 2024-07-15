@@ -36,18 +36,18 @@
 
 # CTF Tool List
 * kali Linux
-* sqlmap
-* Wireshark
+* sqlmap：https://github.com/sqlmapproject/sqlmap
+* Wireshark：https://www.wireshark.org
 * gdb：(gef)、(pwndbg)
-* IDA：
-* Ghidra：
-* pwntools：
+* IDA：https://hex-rays.com/ida-free/
+* Ghidra：https://github.com/NationalSecurityAgency/ghidra
+* pwntools：https://github.com/Gallopsled/pwntools
 * dirsearch：https://github.com/maurosoria/dirsearch
-* angr：
-* z3：
-* Metasploit：
+* angr：https://github.com/angr/angr
+* z3：https://github.com/Z3Prover/z3
+* Metasploit：https://github.com/rapid7/metasploit-framework
 
 # CTF Lab
-* OverTheWire：
-* picoCTF：
-* pwwnable.tw：
+* OverTheWire：https://overthewire.org/wargames/
+* picoCTF：https://picoctf.org
+* pwwnable.tw：https://pwnable.tw
