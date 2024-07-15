@@ -19,6 +19,9 @@
 * Fuzzing Test：https://ithelp.ithome.com.tw/articles/10287619
 * Dynamic Programming：https://ithelp.ithome.com.tw/users/20112376/ironman/2672
 
+## Cheats
+* [UnknownCheat](https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html?s=35bfcde36a5f3f8d23eca6302e1d0f40)
+
 # CTF
 
 ## Internet
@@ -33,21 +36,23 @@
 * NTU Computer Security Camp：
 * Binary Exploitation Notes (Gitbook)：https://ir0nstone.gitbook.io/notes/types/stack/introduction
 
+## Crypto
+
 
 # CTF Tool List
 * kali Linux
-* sqlmap：https://github.com/sqlmapproject/sqlmap
-* Wireshark：https://www.wireshark.org
+* [sqlmap](https://github.com/sqlmapproject/sqlmap)
+* [Wireshark](https://www.wireshark.org)
 * gdb：(gef)、(pwndbg)
-* IDA：https://hex-rays.com/ida-free/
-* Ghidra：https://github.com/NationalSecurityAgency/ghidra
-* pwntools：https://github.com/Gallopsled/pwntools
-* dirsearch：https://github.com/maurosoria/dirsearch
-* angr：https://github.com/angr/angr
-* z3：https://github.com/Z3Prover/z3
-* Metasploit：https://github.com/rapid7/metasploit-framework
+* [IDA](https://hex-rays.com/ida-free/)
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+* [pwntools](https://github.com/Gallopsled/pwntools)
+* [dirsearch](https://github.com/maurosoria/dirsearch)
+* [angr](https://github.com/angr/angr)
+* [z3 solver](https://github.com/Z3Prover/z3)
+* [Metasploit](https://github.com/rapid7/metasploit-framework)
 
 # CTF Lab
-* OverTheWire：https://overthewire.org/wargames/
-* picoCTF：https://picoctf.org
-* pwwnable.tw：https://pwnable.tw
+* [OverTheWire](https://overthewire.org/wargames/)
+* [picoCTF](https://picoctf.org)
+* [pwnable.tw](https://pwnable.tw)
