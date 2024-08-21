@@ -1,7 +1,10 @@
 # Intern Platform
+* [資訊種子培訓](https://itseed.tw) - 做專案、了解業界
 * [Yourator](https://www.yourator.co) - 新創為主
 * [Cakeresume](https://www.cakeresume.com/zh-TW)
 
+## Experience Share
+* [巫師札記](https://wizardkuo.com)
 
 # Material List
 
