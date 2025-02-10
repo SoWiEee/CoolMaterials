@@ -4,6 +4,11 @@
 * [Cakeresume](https://www.cakeresume.com/zh-TW)
 * [Devcore](https://devco.re)
 
+## Conference
+* [SITCON](https://sitcon.org/2025/)
+* [HITCON](https://hitcon.org)
+* [Devcore Conference](https://conf.devco.re/2025/)
+
 ## Experience Share
 * [巫師札記](https://wizardkuo.com)
 
