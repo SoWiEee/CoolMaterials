@@ -29,16 +29,16 @@
 * Dynamic Programming：https://ithelp.ithome.com.tw/users/20112376/ironman/2672
 
 ## Operating System
-* [Operating System Concept](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366) 📖
+* 📖 [Operating System Concept](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366)
 
 ### Linux
-* [Linux System Programming Talking Directly to the Kernel and C Library](https://github.com/amir-ice-1516-iu/study/blob/master/Linux%20System%20Programming%20Talking%20Directly%20to%20the%20Kernel%20and%20C%20Library%20(%20PDFDrive%20).pdf) 📖
-* [Linux Practice](https://linuxjourney.com)
+* 📖 [Linux System Programming Talking Directly to the Kernel and C Library](https://github.com/amir-ice-1516-iu/study/blob/master/Linux%20System%20Programming%20Talking%20Directly%20to%20the%20Kernel%20and%20C%20Library%20(%20PDFDrive%20).pdf)
+* 🌐 [Linux Practice](https://linuxjourney.com)
 * [Linux Basic Introduction Slide](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
-* [Linux Bible](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) 📖
+* 📖 [Linux Bible](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf)
 * [CCU Linux Programming Github](https://github.com/shiwulo/system-programming)
-* [Linux Bash Script](https://bash.cyberciti.biz/guide/Main_Page)
-* [Linux Device Driver](https://lwn.net/Kernel/LDD3/)
+* 🌐 [Linux Bash Script](https://bash.cyberciti.biz/guide/Main_Page)
+* 📖 [Linux Device Driver](https://lwn.net/Kernel/LDD3/)
 
 ### Windows
 
