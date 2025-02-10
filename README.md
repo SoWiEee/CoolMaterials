@@ -41,6 +41,7 @@
 * 📖 [Linux Device Driver](https://lwn.net/Kernel/LDD3/)
 
 ### Windows
+* Windows Internals
 
 ## Cheat
 * [UnknownCheat](https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html?s=35bfcde36a5f3f8d23eca6302e1d0f40)
@@ -57,7 +58,8 @@
 
 ## BE
 * Binary Exploitation Notes (Gitbook)：https://ir0nstone.gitbook.io/notes/types/stack/introduction
-* Windows
+* [Windows Ring3 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
+* [Windows Ring0 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/6649)
 * [AngelBoy SlideShare](https://www.slideshare.net/AngelBoy1/presentations)
 
 ## Malware
