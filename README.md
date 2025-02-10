@@ -32,9 +32,9 @@
 * [Operating System Concept](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366) 📖
 * [Linux System Programming Talking Directly to the Kernel and C Library](https://github.com/amir-ice-1516-iu/study/blob/master/Linux%20System%20Programming%20Talking%20Directly%20to%20the%20Kernel%20and%20C%20Library%20(%20PDFDrive%20).pdf) 📖
 * [Linux Practice](https://linuxjourney.com) (web)
-* [Linux Basic Introduction](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf) (slide)
+* [Linux Basic Introduction Slide](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
 * [Linux Bible](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) 📖
-* [CCU Linux Programming](https://github.com/shiwulo/system-programming) (github)
+* [CCU Linux Programming Github](https://github.com/shiwulo/system-programming)
 
 ## Cheat
 * [UnknownCheat](https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html?s=35bfcde36a5f3f8d23eca6302e1d0f40)
