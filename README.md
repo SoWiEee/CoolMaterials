@@ -17,6 +17,7 @@
 ## Basic
 * Basic Concpets & Practices：https://ithelp.ithome.com.tw/users/20141088/ironman/5548
 * Artificial Intelligent：https://ithelp.ithome.com.tw/users/20152236/ironman/560
+* [Kaggle](https://www.kaggle.com)
 
 ## LeetCode
 * [Platform](https://leetcode.com/)
