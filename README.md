@@ -60,11 +60,12 @@
 * Packet Analyze with Python：https://ithelp.ithome.com.tw/users/20130271/ironman/3662
 
 ## Web
-* Web Security Academy：https://portswigger.net/web-security/dashboard (recommend)
-* Web Tracking：https://ithelp.ithome.com.tw/users/20152544/ironman/57
+* [Web Security Academy](https://portswigger.net/web-security/dashboard) (recommend)
+* [Web Tracking Article](https://ithelp.ithome.com.tw/users/20152544/ironman/57)
 
 ## BE
-* Binary Exploitation Notes (Gitbook)：https://ir0nstone.gitbook.io/notes/types/stack/introduction
+* [Binary Exploitation Notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction) (Gitbook)
+* [Red Team Notes](https://www.ired.team)
 * [Windows Ring3 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
 * [Windows Ring0 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/6649)
 * [AngelBoy SlideShare](https://www.slideshare.net/AngelBoy1/presentations)
