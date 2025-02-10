@@ -38,7 +38,7 @@
 ### Linux
 * 🌐 [鳥哥私房菜](https://linux.vbird.org)
 * 📖 [Linux System Programming Talking Directly to the Kernel and C Library](https://github.com/amir-ice-1516-iu/study/blob/master/Linux%20System%20Programming%20Talking%20Directly%20to%20the%20Kernel%20and%20C%20Library%20(%20PDFDrive%20).pdf)
-* 🌐 [Linux Practice](https://linuxjourney.com) 👍
+* 🌐 [Linux Practice](https://linuxjourney.com) ✨
 * [Linux Basic Introduction Slide](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
 * 📖 [Linux Bible](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf)
 * [CCU Linux Programming Github](https://github.com/shiwulo/system-programming)
@@ -59,7 +59,7 @@
 * Packet Analyze with Python：https://ithelp.ithome.com.tw/users/20130271/ironman/3662
 
 ## Web
-* [Web Security Academy](https://portswigger.net/web-security/dashboard) 👍
+* [Web Security Academy](https://portswigger.net/web-security/dashboard) ✨
 * [Web Tracking Article](https://ithelp.ithome.com.tw/users/20152544/ironman/57)
 
 ## BE
@@ -67,7 +67,7 @@
 * [Red Team Notes](https://www.ired.team)
 * [Windows Ring3 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
 * [Windows Ring0 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/6649)
-* [AngelBoy SlideShare](https://www.slideshare.net/AngelBoy1/presentations) 👍
+* [AngelBoy SlideShare](https://www.slideshare.net/AngelBoy1/presentations) ✨
 
 ## Malware
 * [Malware Training vol1](https://github.com/hasherezade/malware_training_vol1/tree/main) 🚧
@@ -78,9 +78,9 @@
 
 # CTF Lab
 * [OverTheWire](https://overthewire.org/wargames/)
-* [picoCTF](https://picoctf.org) 👍
-* [pwnable.tw](https://pwnable.tw) 👍
-* [Hack The Box](https://www.hackthebox.com) 👍
+* [picoCTF](https://picoctf.org) ✨
+* [pwnable.tw](https://pwnable.tw) ✨
+* [Hack The Box](https://www.hackthebox.com) ✨
 
 ## Useful Tools
 * kali Linux
