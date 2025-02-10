@@ -93,6 +93,8 @@
 * [dirsearch](https://github.com/maurosoria/dirsearch)
 * [angr](https://github.com/angr/angr)
 * [z3 solver](https://github.com/Z3Prover/z3)
+* [windbg](https://learn.microsoft.com/zh-tw/windows-hardware/drivers/debugger/)
+* [Windows Sysinternals](https://learn.microsoft.com/zh-tw/sysinternals/downloads/sysinternals-suite)
 * [Metasploit](https://github.com/rapid7/metasploit-framework)
 
 
