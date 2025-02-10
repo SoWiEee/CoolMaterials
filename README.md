@@ -73,6 +73,10 @@
 * [Malware Training vol1](https://github.com/hasherezade/malware_training_vol1/tree/main) (🚧working)
 * [NTU Malware Analysis Camp](https://github.com/Ice1187/My-Slides/blob/main/Windows%20Malware%20RE.pdf)
 
+## Certification
+* [OSCP](https://www.offsec.com/courses/pen-200/)
+
+
 # CTF Tool
 * kali Linux
 * [sqlmap](https://github.com/sqlmapproject/sqlmap)
