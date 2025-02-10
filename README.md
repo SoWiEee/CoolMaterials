@@ -2,6 +2,7 @@
 * [資訊種子培訓](https://itseed.tw) - 做專案、了解業界
 * [Yourator](https://www.yourator.co) - 新創為主
 * [Cakeresume](https://www.cakeresume.com/zh-TW)
+* [Devcore](https://devco.re)
 
 ## Experience Share
 * [巫師札記](https://wizardkuo.com)
@@ -27,8 +28,17 @@
 * Fuzzing Test：https://ithelp.ithome.com.tw/articles/10287619
 * Dynamic Programming：https://ithelp.ithome.com.tw/users/20112376/ironman/2672
 
-## Cheats
+## Operating System
+* [Operating System Concept](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366) 📖
+* [Linux System Programming Talking Directly to the Kernel and C Library](https://github.com/amir-ice-1516-iu/study/blob/master/Linux%20System%20Programming%20Talking%20Directly%20to%20the%20Kernel%20and%20C%20Library%20(%20PDFDrive%20).pdf) 📖
+* [Linux Practice](https://linuxjourney.com) (web)
+* [Linux Basic Introduction](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf) (slide)
+* [Linux Bible](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) 📖
+* [CCU Linux Programming](https://github.com/shiwulo/system-programming) (github)
+
+## Cheat
 * [UnknownCheat](https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html?s=35bfcde36a5f3f8d23eca6302e1d0f40)
+* [Cheat Engine](https://www.cheatengine.org)
 
 # CTF
 
@@ -38,20 +48,21 @@
 ## Web
 * Web Security Academy：https://portswigger.net/web-security/dashboard (recommend)
 * Web Tracking：https://ithelp.ithome.com.tw/users/20152544/ironman/57
-* NTU Computer Security Camp：
 
 ## BE
-* NTU Computer Security Camp：
 * Binary Exploitation Notes (Gitbook)：https://ir0nstone.gitbook.io/notes/types/stack/introduction
+* Windows
+* [AngelBoy SlideShare](https://www.slideshare.net/AngelBoy1/presentations)
 
-## Crypto
+## Malware
+* [Malware Training vol1](https://github.com/hasherezade/malware_training_vol1/tree/main) (🚧working)
+* [NTU Malware Analysis Camp](https://github.com/Ice1187/My-Slides/blob/main/Windows%20Malware%20RE.pdf)
 
-
-# CTF Tool List
+# CTF Tool
 * kali Linux
 * [sqlmap](https://github.com/sqlmapproject/sqlmap)
 * [Wireshark](https://www.wireshark.org)
-* gdb：(gef)、(pwndbg)
+* Debugger：gdb、[gef](https://github.com/hugsy/gef)、[pwndbg](https://github.com/pwndbg/pwndbg)
 * [IDA](https://hex-rays.com/ida-free/)
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 * [pwntools](https://github.com/Gallopsled/pwntools)
@@ -62,5 +73,5 @@
 
 # CTF Lab
 * [OverTheWire](https://overthewire.org/wargames/)
-* [picoCTF](https://picoctf.org)
+* [picoCTF](https://picoctf.org) (recommend)
 * [pwnable.tw](https://pwnable.tw)
