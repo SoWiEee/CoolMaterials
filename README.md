@@ -76,8 +76,13 @@
 ## Certification
 * [OSCP](https://www.offsec.com/courses/pen-200/)
 
+# CTF Lab
+* [OverTheWire](https://overthewire.org/wargames/)
+* [picoCTF](https://picoctf.org) (recommend)
+* [pwnable.tw](https://pwnable.tw)
+* [Hack The Box](https://www.hackthebox.com)
 
-# CTF Tool
+## Useful Tools
 * kali Linux
 * [sqlmap](https://github.com/sqlmapproject/sqlmap)
 * [Wireshark](https://www.wireshark.org)
@@ -90,8 +95,4 @@
 * [z3 solver](https://github.com/Z3Prover/z3)
 * [Metasploit](https://github.com/rapid7/metasploit-framework)
 
-# CTF Lab
-* [OverTheWire](https://overthewire.org/wargames/)
-* [picoCTF](https://picoctf.org) (recommend)
-* [pwnable.tw](https://pwnable.tw)
-* [Hack The Box](https://www.hackthebox.com)
+
