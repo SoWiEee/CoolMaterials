@@ -1,18 +1,4 @@
-# Intern Platform
-* [資訊種子培訓](https://itseed.tw) - 做專案、了解業界
-* [Yourator](https://www.yourator.co) - 新創為主
-* [Cakeresume](https://www.cakeresume.com/zh-TW)
-* [Devcore](https://devco.re)
-
-## Conference
-* [SITCON](https://sitcon.org/2025/)
-* [HITCON](https://hitcon.org)
-* [Devcore Conference](https://conf.devco.re/2025/)
-
-## Experience Share
-* [巫師札記](https://wizardkuo.com)
-
-# Material List
+# Material Block
 
 ## Basic
 * [Basic Security Concpets & Practices](https://ithelp.ithome.com.tw/users/20141088/ironman/5548)
@@ -97,4 +83,16 @@
 * [Windows Sysinternals](https://learn.microsoft.com/zh-tw/sysinternals/downloads/sysinternals-suite)
 * [Metasploit](https://github.com/rapid7/metasploit-framework)
 
+# Intern Platform
+* [資訊種子培訓](https://itseed.tw) - 做專案、了解業界
+* [Yourator](https://www.yourator.co) - 新創為主
+* [Cakeresume](https://www.cakeresume.com/zh-TW)
+* [Devcore](https://devco.re)
 
+## Conference
+* [SITCON](https://sitcon.org/2025/)
+* [HITCON](https://hitcon.org)
+* [Devcore Conference](https://conf.devco.re/2025/)
+
+## Experience Share
+* [巫師札記](https://wizardkuo.com)
