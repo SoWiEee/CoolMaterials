@@ -32,6 +32,7 @@
 * 📖 [Operating System Concept](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366)
 
 ### Linux
+* 🌐 [鳥哥私房菜](https://linux.vbird.org)
 * 📖 [Linux System Programming Talking Directly to the Kernel and C Library](https://github.com/amir-ice-1516-iu/study/blob/master/Linux%20System%20Programming%20Talking%20Directly%20to%20the%20Kernel%20and%20C%20Library%20(%20PDFDrive%20).pdf)
 * 🌐 [Linux Practice](https://linuxjourney.com)
 * [Linux Basic Introduction Slide](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
@@ -41,7 +42,8 @@
 * 📖 [Linux Device Driver](https://lwn.net/Kernel/LDD3/)
 
 ### Windows
-* Windows Internals
+* 📖 [Windows Internals - Part 1](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189)
+* 📖 [Windows Internals - Part 2](https://www.amazon.com/-/zh_TW/Windows-Internals-Part-Developer-Reference/dp/0735665877)
 
 ## Cheat
 * [UnknownCheat](https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html?s=35bfcde36a5f3f8d23eca6302e1d0f40)
