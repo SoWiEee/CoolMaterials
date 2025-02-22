@@ -46,9 +46,12 @@
 
 ## Web
 * [Web Security Academy](https://portswigger.net/web-security/dashboard) ✨
+* [How to Hack Websites](https://github.com/splitline/How-to-Hack-Websites) 🎬
 * [Web Tracking Article](https://ithelp.ithome.com.tw/users/20152544/ironman/57)
 
-## BE
+## Reverse & Binary Exploitation
+* [小朋友也聽得懂的逆向工程](https://youtu.be/VtDN9Eh9nt4?si=Mi27MVUtc7CwBBdb)
+* [漏洞攻擊從入門放棄](https://youtu.be/gbtyHa38ysM?si=idnSEGTnAOLIJOZy)
 * [Binary Exploitation Notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction)
 * [Red Team Notes](https://www.ired.team)
 * [Windows Ring3 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
