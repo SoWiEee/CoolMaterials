@@ -45,13 +45,13 @@
 * [Packet Analyze with Python Article](https://ithelp.ithome.com.tw/users/20130271/ironman/3662)
 
 ## Web
-* [Web Security Academy](https://portswigger.net/web-security/dashboard) ✨
-* [How to Hack Websites](https://github.com/splitline/How-to-Hack-Websites) ✨
+* 🌐 [Web Security Academy](https://portswigger.net/web-security/dashboard) ✨
+* 🎬 [How to Hack Websites](https://github.com/splitline/How-to-Hack-Websites) ✨
 * [Web Tracking Article](https://ithelp.ithome.com.tw/users/20152544/ironman/57)
 
 ## Reverse & Binary Exploitation
-* [小朋友也聽得懂的逆向工程](https://youtu.be/VtDN9Eh9nt4?si=Mi27MVUtc7CwBBdb) ✨
-* [漏洞攻擊從入門放棄](https://youtu.be/gbtyHa38ysM?si=idnSEGTnAOLIJOZy) ✨
+* 🎬 [小朋友也聽得懂的逆向工程](https://youtu.be/VtDN9Eh9nt4?si=Mi27MVUtc7CwBBdb) ✨
+* 🎬 [漏洞攻擊從入門放棄](https://youtu.be/gbtyHa38ysM?si=idnSEGTnAOLIJOZy) ✨
 * [Binary Exploitation Notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction)
 * [Red Team Notes](https://www.ired.team)
 * [Windows Ring3 Exploitation](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
@@ -61,6 +61,9 @@
 ## Malware
 * [Malware Training vol1](https://github.com/hasherezade/malware_training_vol1/tree/main) 🚧
 * [NTU Malware Analysis Camp](https://github.com/Ice1187/My-Slides/blob/main/Windows%20Malware%20RE.pdf)
+
+## Crypto
+* 🌐 [Crypto Course](https://github.com/OAlienO/Crypto-Course)
 
 ## Certification
 * [OSCP](https://www.offsec.com/courses/pen-200/)
